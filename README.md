@@ -4,7 +4,7 @@
 <h3>My Interests:</h3>
 <h4 align="center">I have an interest in making games aswell as pixelart, i mostly program in programs that are not recognized as very useful, but i do so more as a hobby than anything professional yet.</h4>
 
-![<son-and>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<son-and>'s Stats](https://github-readme-stats.vercel.app/api?username=son-and&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
