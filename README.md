@@ -14,4 +14,4 @@
 
 ## 📬 Get in Touch
 
-- Connect with me on [Email](sunson@online.no)
+- Connect with me on [Discord](https://discordapp.com/users/622081808833708054)
